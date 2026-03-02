@@ -52,7 +52,7 @@ git push origin master
 1. 前往你自己 fork 的專案頁面（`https://github.com/<你的-username>/homework-0`）
 2. 點擊 **Contribute** → **Open pull request** 按鈕
 3. 確認分支資訊：
-   - base: `NCUE-CS-UNIX-2026-Spring:main`
+   - base: `NCUE-CS-RL-2026-Spring:main`
    - compare: `<你的-username>:main`
 4. 在標題中填寫：`Homework 0 - <你的姓名> - <你的學號>`
 5. 在內容中可以簡單說明你的作業完成情況
